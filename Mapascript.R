@@ -77,7 +77,7 @@ ggplot() +
                                          size=0.5, linetype="solid", color = "black"),
         legend.position = "right")
         
-        
+#Recomendo salvar plot como png 827x1169 ou pdf tamanho A4        
 
 
 
